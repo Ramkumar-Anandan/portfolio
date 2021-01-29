@@ -62,7 +62,7 @@ a:hover{
     border-radius: 5px;
     text-decoration: none;
 }
-.profile a:hover{
+.profile a:hover , .lets-talk a:hover{
     color:#1E1E1E;
 }
 .about{
